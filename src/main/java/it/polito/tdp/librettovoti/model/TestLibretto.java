@@ -24,5 +24,7 @@ public class TestLibretto {
 		
 		Libretto librettoVenticinque = libretto.votiUguali(25);
 		System.out.println(librettoVenticinque);
+		
+		
 	}
 }
